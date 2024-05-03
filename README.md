@@ -14,4 +14,4 @@ py -m pip install tk
 
 
 ### Architecture
-![architecture](https://github.com/zDestinate/DigitRecognition/blob/main/images/architecture.png)
+![architecture](https://raw.githubusercontent.com/dNop90/DigitRecognition/main/images/architecture.png)
